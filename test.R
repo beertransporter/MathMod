@@ -1,3 +1,3 @@
-a=3
-b=5
-plot(a,b)
+x=3
+y=5
+plot(x,y)
